@@ -1,0 +1,14 @@
+body{
+    background-color: brown;
+    color: antiquewhite;
+}
+
+#mysubmit{
+    font-size: 1em;
+    border-radius: 10px;
+}
+
+#mysubmit:hover{
+    background-color: blue;
+    color: azure;
+}
