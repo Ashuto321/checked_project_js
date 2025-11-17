@@ -1,4 +1,3 @@
-
  This Checked project is a simple use of javascript .checked method to work with very good and useful
  
  you can go and check it:  https://ashuto321.github.io/checked_project_js/
